@@ -18,6 +18,7 @@ STAR_VEL=3
 
 FONT = pygame.font.SysFont("comicsans", 30)
 
+
 def draw(player,elapsed_time,stars):
     WIN.blit(BG,(0,0))
 
